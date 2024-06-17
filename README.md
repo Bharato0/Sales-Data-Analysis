@@ -9,4 +9,4 @@ to successfully convey your findings, you will compute revenue measures like
 
 1. total sales,
 2. analyze sales trends over time,
-3. determine the best-selling products, and build visualizations.
+3. determine the best-selling products, and build visualizations. 
